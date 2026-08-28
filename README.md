@@ -1,5 +1,7 @@
 Digital Twin per il confronto economico-operativo dei modelli organizzativi del food delivery
+
 License: MIT
+
 Tesi di laurea triennale in ingegneria industriale Università degli Studi di Trento-Dipartimento di ingegneria industriale
 Studente: Giovanni Zattara, mat. 247772
 Relatore: Prof. Francesco Pilati
