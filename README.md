@@ -18,5 +18,5 @@ Per la descrizione completa della strutturazione del digital twin e dei suoi ris
 
 Requisiti per eseguire la simulazione:
 - Python 3.10 o superiore  
-- librerie utilizzate: random, math, collections, numpy, scipy e datetime nelle versioni descritte nel file di testo allegato  
+- librerie utilizzate: numpy e scipy nelle versioni descritte nel file di testo allegato  
 Lo script genera la domanda giornaliera (36 ordini con seed fissato a 42) eseguendo la comparazione dei due modelli su 6 scenari e stampando i 5 KPI per ogni scenario.
